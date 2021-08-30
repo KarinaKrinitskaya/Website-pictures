@@ -267,7 +267,8 @@ h3.picture-item-title {
     font-size: 1em;
     margin-right: 5px;
   }
-  #picture-tile, #flowers-tile {
+
+  #picture-tile {
     width: 360px;
     margin: 0 auto 15px;
   }
